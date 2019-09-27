@@ -7,7 +7,7 @@ This is a project template for use with Eclipse.
 2. Use JUnit to run unit tests individually from within Eclipse.
 
 ### Instructions:
-1. In the top-right corner of this project, click "Fork".
+1. In the top-right corner of this repository, click "Fork".
 2. You will be directed to your new forked repository. On this page, click "Settings".
 3. Under "Repository name", rename the repo to your new project name, and click "Rename".
 4. Using the command line on your computer, navigate into your `eclipse-workspace` directory.
