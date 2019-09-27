@@ -3,7 +3,7 @@
 This is a project template for use with Eclipse. 
 
 ### Use it if you want to:
-1. Use maven to manage project dependencies via pom.xml.
+1. Use Maven to manage project dependencies via pom.xml.
 2. Use JUnit to run unit tests individually from within Eclipse.
 
 ### Instructions:
